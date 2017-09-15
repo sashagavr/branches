@@ -18,3 +18,11 @@ public int sum(int a, int b)
 //output data
 
 print (sum(a,b));
+
+//#------------------
+//minus data
+
+public int minus(int a, int b)
+{
+	return a-b;
+}
